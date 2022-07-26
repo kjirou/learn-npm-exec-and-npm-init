@@ -1,1 +1,1 @@
-# learn-npm-exex-and-npm-init
+# learn-npm-exec-and-npm-init
