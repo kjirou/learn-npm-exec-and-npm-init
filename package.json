@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/kjirou/learn-npm-exec-and-npm-init/issues"
   },
-  "homepage": "https://github.com/kjirou/learn-npm-exec-and-npm-init#readme"
+  "homepage": "https://github.com/kjirou/learn-npm-exec-and-npm-init#readme",
+  "private": true
 }
