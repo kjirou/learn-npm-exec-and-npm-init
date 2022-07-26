@@ -1,0 +1,20 @@
+{
+  "name": "learn-npm-exec-and-npm-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjirou/learn-npm-exec-and-npm-init.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjirou/learn-npm-exec-and-npm-init/issues"
+  },
+  "homepage": "https://github.com/kjirou/learn-npm-exec-and-npm-init#readme"
+}
