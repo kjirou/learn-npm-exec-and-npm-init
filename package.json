@@ -17,5 +17,8 @@
     "url": "https://github.com/kjirou/learn-npm-exec-and-npm-init/issues"
   },
   "homepage": "https://github.com/kjirou/learn-npm-exec-and-npm-init#readme",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "foo": "file:local-packages/foo"
+  }
 }
