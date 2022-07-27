@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kjirou/learn-npm-exec-and-npm-init#readme",
   "private": true,
   "dependencies": {
+    "cowsay": "^1.5.0",
     "foo": "file:local-packages/foo"
   }
 }
